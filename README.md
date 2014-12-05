@@ -1,12 +1,13 @@
 islandora-vm-vagrant
 ====================
 
-A really simple wrapper around the [Islandora Virtual Machine Image](http://islandora.ca/downloads) which is a complete build of the [Islandora Chef](https://github.com/ryersonlibrary/islandora_chef) repo.
+A really simple wrapper around the 1.4 release of the [Islandora Virtual Machine Image](http://islandora.ca/downloads) which is a complete build of the [Islandora Chef](https://github.com/ryersonlibrary/islandora_chef) repo.
 
 
 ## Requirements
-[VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-[Vagrant](https://docs.vagrantup.com/v2/installation/index.html)
+  [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+  
+  [Vagrant](https://docs.vagrantup.com/v2/installation/index.html)
 
 **I've only tested on linux and OSX**
 
