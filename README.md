@@ -5,11 +5,9 @@ A really simple wrapper around the 1.4 release of the [Islandora Virtual Machine
 
 
 ## Requirements
-  [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-  
-  [Vagrant](https://docs.vagrantup.com/v2/installation/index.html)
+* [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+* [Vagrant](https://docs.vagrantup.com/v2/installation/index.html)
 
-**I've only tested on linux and OSX**
 
 ##Getting Started
 
@@ -30,3 +28,10 @@ Point your favorite browser at `[http://localhost:8181](http://localhost:8181).
 `vagrant ssh`  
 
 while inside the `islandora-vm-vagrant` directory
+
+
+===
+
+## Tested on
+* Ubuntu 14.04
+* Windows 8 (Using the [github for windows](https://windows.github.com/) git shell )
